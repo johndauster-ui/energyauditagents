@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Privacy Policy - Energy Audit Agents</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: September 29, 2026</p>
+  <p>Energy Audit Agents accesses one Gmail mailbox, owned by the
+  developer, to read incoming energy audit emails and send replies.</p>
+  <h2>Data we access</h2>
+  <p>Email content and attachments in that mailbox, used only to extract
+  audit-related information and respond to senders.</p>
+  <h2>How data is used and stored</h2>
+  <p>Extracted data is stored privately on the developer's own server.
+  It is not sold, shared with third parties, or used for advertising.</p>
+  <h2>Contact</h2>
+  <p>Questions: your-email@example.com</p>
+</body>
+</html>
