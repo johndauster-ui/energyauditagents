@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Energy Audit Agents</title>
+</head>
+<body>
+  <h1>Energy Audit Agents</h1>
+  <p>A private email-processing tool that reads incoming energy audit
+  emails from a single Gmail mailbox, extracts key facts, and sends
+  confirmation and follow-up replies.</p>
+  <p>This app is for personal use and is not offered to the public.</p>
+  <p><a href="privacy.html">Privacy Policy</a></p>
+</body>
+</html>
